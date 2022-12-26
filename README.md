@@ -1,7 +1,11 @@
-## Online Version Exist at netlify
-[https://yahoo-rct.netlify.app/]
+## Online Version Exist at netlify :
+ 
+ Link ---> [https://yahoo-rct.netlify.app/]
 
-## otherwise run the following ` npm run build ` on the command line.
+## otherwise run the following 
+
+` npm run build ` on the command line.
+
 ## note that node js needs to be installed.
 
 ## images courtesy of [htts://unsplash.com/]
